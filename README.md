@@ -6,7 +6,6 @@ There are several branches on this repo. The `main` Branch is the `moderation` b
 - Kick, Ban, Mute (Must have a role named "Muted"), Help, ping commands.
 -------------------
 ## Installation
-- Simply `git clone https://github.com/vahshellus/Multipurpose-discord-bot.git`
 - `npm install` For all required dependencies.
 - Replace your client ID and Token in the .env OR if you do not wish to use a .env simply replace the `process.env.TOKEN` and `process.env.CLIENT_ID` with your bot's token and bot id.
 - Finally: `node .` to run the project.
